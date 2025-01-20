@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flower {
+  position: relative;
+  width: 200px;
+  height: 300px;
+  margin: 100px auto;
+}
+
+.circle {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  background-color: yellow;
+  border-radius: 50%;
+  top: 100px;
+  left: 87.5px;
+}
+
+.flo-1 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  border-bottom-right-radius: 80px;
+  border-top-left-radius: 80px;
+  top: 38px;
+  left: 105px;
+}
+.flo-2 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-bottom-left-radius: 80px;
+  border-top-right-radius: 80px;
+  background-color: red;
+  top: 40px;
+  left: 25px;
+}
+.flo-3 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  border-bottom-right-radius: 80px;
+  border-top-left-radius: 80px;
+  top: 110px;
+  left: 30px;
+}
+.flo-4 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  border-bottom-left-radius: 80px;
+  border-top-right-radius: 80px;
+  top: 110px;
+  left: 100px;
+}
+
+.leaf {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background-color: hsl(114, 66%, 62%);
+  border-bottom-left-radius: 80px;
+  border-top-right-radius: 80px;
+  top: 230px;
+  left: 30px;
+}
+.stem {
+  position: absolute;
+  width: 8px;
+  height: 200px;
+  background-color: hsl(114, 66%, 62%);
+  top: 125px;
+  left: 95px;
+}

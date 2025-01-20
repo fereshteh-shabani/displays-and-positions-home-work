@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  position: relative;
+  width: 400px;
+  height: 250px;
+  border: solid 3px black;
+  top: 5px;
+  left: 5px;
+}
+
+.box {
+  position: absolute;
+
+  background-color:aqua;
+  width: 130px;
+  height: 60px;
+  border: none;
+margin-top:85px  ;
+margin-left:120px;
+}
+p { 
+    
+    margin-top:17px;
+    margin-left: 6px;
+}

@@ -1,0 +1,32 @@
+article {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  background-color: white;
+  position: relative;
+}
+article > section {
+  background-color: deepskyblue;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+
+.box-1 {
+  left: 5px;
+  top: 5px;
+}
+.box-2 {
+  right: 5px;
+  top: 5px;
+}
+.box-3 {
+  right: 5px;
+  bottom: 5px;
+}
+.box-4 {
+  left: 5px;
+  bottom: 5px;
+}
+
+

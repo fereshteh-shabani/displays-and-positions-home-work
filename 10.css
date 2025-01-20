@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heart-container {
+    position: absolute;
+  margin-left: 650px;
+ 
+  margin-top: 250px;
+}
+
+.heart {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: hsl(342, 75%, 47%);
+   
+    
+}
+

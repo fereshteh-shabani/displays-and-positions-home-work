@@ -1,0 +1,25 @@
+
+
+div {position: relative;
+ 
+    
+    background-color: aqua;
+
+    width: 150px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top: 300px;
+
+  
+}
+p {
+    
+  position: absolute;  
+   
+   margin:27px  20px;
+  
+  
+  
+ 
+}

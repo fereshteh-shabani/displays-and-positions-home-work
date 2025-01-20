@@ -1,0 +1,21 @@
+nav {
+    position: relative;
+  background-color: darkcyan;
+  height: 80px;
+  position: sticky;
+  top: 0;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+  left: 10px;
+  padding: 10px;
+}
+h1 {
+    position: absolute;
+  display: inline-block;
+ 
+align-items: center;
+
+}
